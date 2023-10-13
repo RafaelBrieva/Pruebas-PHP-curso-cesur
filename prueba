@@ -1,0 +1,17 @@
+<html>
+    <head>
+
+    <title> Prueba PHP</title>
+
+    </head>
+
+    <body>
+
+    <?php
+
+    echo "Viva el Sevilla F.C"
+
+    ?>
+     
+   </body>
+</html>
